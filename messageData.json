@@ -1,0 +1,73 @@
+{
+    "messageList": [{
+            "message": "Lorem ipsum dolor sit amet.",
+            "img": "https://hiflyer.vn/templates/hiflyer/images/avatar/avatar2.png",
+            "name": "רועי",
+            "date": { "year": "2015", "month": "07", "day": "22" }
+
+        },
+        {
+            "message": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia, at!",
+            "img": "https://transactionalsms.com/asset/images/client-face-3.png",
+            "name": "איציק",
+            "date": { "year": "2015", "month": "07", "day": "22" }
+
+        },
+        {
+            "message": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+            "img": "http://www.lovemarks.com/wp-content/uploads/profile-avatars/default-avatar-rapper-guy.png",
+            "name": "שלמה",
+            "date": { "year": "2015", "month": "07", "day": "22" }
+
+        },
+        {
+            "message": "Lorem ipsum dolor sit amet consectetur.",
+            "img": "http://www.lovemarks.com/wp-content/uploads/profile-avatars/default-avatar-business-bear.png",
+            "name": "גבי",
+            "date": { "year": "2015", "month": "07", "day": "22" }
+
+        },
+        {
+            "message": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+            "img": "http://photointopainting.com/wp-content/themes/aperture/thumb.php?src=http://photointopainting.com/wp-content/uploads/2009/09/SelfAvatar_Blue002.jpg&h=&w=700&zc=1&q=90",
+            "name": "יבגני",
+            "date": { "year": "2015", "month": "07", "day": "22" }
+
+        },
+        {
+            "message": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+            "img": "https://pbs.twimg.com/profile_images/834868579401080833/o9S4goXR.jpg",
+            "name": "עמית",
+            "date": { "year": "2015", "month": "07", "day": "22" }
+
+        },
+        {
+            "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem ex quos a asperiores exercitationem cupiditate.",
+            "img": "http://www.lovemarks.com/wp-content/uploads/profile-avatars/default-avatar.png",
+            "name": "דוד",
+            "date": { "year": "2015", "month": "07", "day": "22" }
+
+        },
+        {
+            "message": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti suscipit distinctio rem recusandae dolore atque at iure eum  ",
+            "img": "https://www.tm-town.com/assets/default_female600x600-3702af30bd630e7b0fa62af75cd2e67c.png",
+            "name": "שלומית",
+            "date": { "year": "2015", "month": "07", "day": "22" }
+
+        },
+        {
+            "message": "What time is it now?",
+            "img": "https://hiflyer.vn/templates/hiflyer/images/avatar/avatar2.png",
+            "name": "שרה",
+            "date": { "year": "2015", "month": "07", "day": "22" }
+
+        },
+        {
+            "message": "What is the population in Israel?",
+            "img": "https://pbs.twimg.com/profile_images/1108971884/suma-avatar-300x273.jpg",
+            "name": "אפרת",
+            "date": { "year": "2015", "month": "07", "day": "22" }
+
+        }
+    ]
+}
